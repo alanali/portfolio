@@ -3,3 +3,14 @@ body {
 	font-size: 40px;
 	background-image: url("http://static.tumblr.com/38c6294981b01afc362e448c946b92f1/w0p2dif/HC7nrz8jq/tumblr_static_52j0l38al94w88ocgc8c400sk_2048_v2.jpg");
 }
+.imgA1 {
+  z-index: 1;
+}
+.imgB1 {
+  z-index: 3;
+	opacity: 0.5;
+  filter: alpha(opacity=50);
+}
+.imgC1 {
+	z-index: 3;
+}
